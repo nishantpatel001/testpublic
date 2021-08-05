@@ -1,0 +1,153 @@
+{
+  "name": "Custom ADO Dashboard",
+  "description": "",
+  "refreshInterval": 0,
+  "position": 1,
+  "widgets": [
+    {
+      "name": "Burndown",
+      "position": {
+        "row": 9,
+        "column": 1
+      },
+      "size": {
+        "rowSpan": 3,
+        "columnSpan": 4
+      },
+      "settings": null,
+      "settingsVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "isEnabled": true,
+      "contentUri": null,
+      "contributionId": "ms.vss-dashboards-web.Microsoft.VisualStudioOnline.Dashboards.BurndownWidget",
+      "typeId": "Microsoft.VisualStudioOnline.Dashboards.BurndownWidget",
+      "configurationContributionId": "ms.vss-dashboards-web.Microsoft.VisualStudioOnline.Dashboards.BurndownWidget.Configuration",
+      "configurationContributionRelativeId": "Microsoft.VisualStudioOnline.Dashboards.BurndownWidget.Configuration",
+      "isNameConfigurable": true,
+      "lightboxOptions": {
+        "width": 900,
+        "height": 700,
+        "resizable": true
+      }
+    },
+    {
+      "name": "Cycle Time",
+      "position": {
+        "row": 1,
+        "column": 1
+      },
+      "size": {
+        "rowSpan": 2,
+        "columnSpan": 3
+      },
+      "settings": null,
+      "settingsVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "isEnabled": true,
+      "contentUri": null,
+      "contributionId": "ms.vss-dashboards-web.Microsoft.VisualStudioOnline.Dashboards.CycleTimeWidget",
+      "typeId": "Microsoft.VisualStudioOnline.Dashboards.CycleTimeWidget",
+      "configurationContributionId": "ms.vss-dashboards-web.Microsoft.VisualStudioOnline.Dashboards.CycleTimeWidget.Configuration",
+      "configurationContributionRelativeId": "Microsoft.VisualStudioOnline.Dashboards.CycleTimeWidget.Configuration",
+      "isNameConfigurable": true,
+      "lightboxOptions": {
+        "width": 900,
+        "height": 700,
+        "resizable": true
+      }
+    },
+    {
+      "name": "Lead Time",
+      "position": {
+        "row": 3,
+        "column": 1
+      },
+      "size": {
+        "rowSpan": 2,
+        "columnSpan": 3
+      },
+      "settings": null,
+      "settingsVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "isEnabled": true,
+      "contentUri": null,
+      "contributionId": "ms.vss-dashboards-web.Microsoft.VisualStudioOnline.Dashboards.LeadTimeWidget",
+      "typeId": "Microsoft.VisualStudioOnline.Dashboards.LeadTimeWidget",
+      "configurationContributionId": "ms.vss-dashboards-web.Microsoft.VisualStudioOnline.Dashboards.LeadTimeWidget.Configuration",
+      "configurationContributionRelativeId": "Microsoft.VisualStudioOnline.Dashboards.LeadTimeWidget.Configuration",
+      "isNameConfigurable": true,
+      "lightboxOptions": {
+        "width": 900,
+        "height": 700,
+        "resizable": true
+      }
+    },
+    {
+      "name": "Velocity",
+      "position": {
+        "row": 7,
+        "column": 1
+      },
+      "size": {
+        "rowSpan": 2,
+        "columnSpan": 3
+      },
+      "settings": null,
+      "settingsVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "isEnabled": true,
+      "contentUri": null,
+      "contributionId": "ms.vss-dashboards-web.Microsoft.VisualStudioOnline.Dashboards.VelocityWidget",
+      "typeId": "Microsoft.VisualStudioOnline.Dashboards.VelocityWidget",
+      "configurationContributionId": "ms.vss-dashboards-web.Microsoft.VisualStudioOnline.Dashboards.VelocityWidget.Configuration",
+      "configurationContributionRelativeId": "Microsoft.VisualStudioOnline.Dashboards.VelocityWidget.Configuration",
+      "isNameConfigurable": true,
+      "lightboxOptions": {
+        "width": 900,
+        "height": 700,
+        "resizable": true
+      }
+    },
+    {
+      "name": "Cumulative Flow Diagram (CFD)",
+      "position": {
+        "row": 5,
+        "column": 1
+      },
+      "size": {
+        "rowSpan": 2,
+        "columnSpan": 3
+      },
+      "settings": null,
+      "settingsVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "isEnabled": true,
+      "contentUri": null,
+      "contributionId": "ms.vss-dashboards-web.Microsoft.VisualStudioOnline.Dashboards.CumulativeFlowDiagramWidget",
+      "typeId": "Microsoft.VisualStudioOnline.Dashboards.CumulativeFlowDiagramWidget",
+      "configurationContributionId": "ms.vss-dashboards-web.Microsoft.VisualStudioOnline.Dashboards.CumulativeFlowDiagramWidget.Configuration",
+      "configurationContributionRelativeId": "Microsoft.VisualStudioOnline.Dashboards.CumulativeFlowDiagramWidget.Configuration",
+      "isNameConfigurable": true,
+      "lightboxOptions": {
+        "width": 900,
+        "height": 700,
+        "resizable": true
+      }
+    }
+  ]
+}
